@@ -9,6 +9,7 @@ public class ArrayListTest {
         for (int i = 0; i < 5; i++) {
             arrayList.add("cc " + i);
         }
+        System.out.println(arrayList);
 //
 
 //        for遍历
